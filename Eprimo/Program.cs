@@ -23,13 +23,16 @@
     }
 }
 
-Console.WriteLine("informe um numero");
-int numeroInfo = int.Parse(Console.ReadLine());
-
-for(int i = 1; i <= numeroInfo; i++)
+void retorno(int numeroInfo)
 {
-    if (Eprimo(i))
+    for (int i = 1; i <= numeroInfo; i++)
     {
-        Console.WriteLine(i);
+        if (Eprimo(i))
+        {
+            Console.WriteLine(i);
+        }
     }
 }
+
+Console.WriteLine("informe um numero: ");
+retorno (int.Parse(Console.ReadLine()));
