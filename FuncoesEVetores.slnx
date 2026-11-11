@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Eprimo/Eprimo.csproj" />
+  <Project Path="FuncoesEVetores/FuncoesEVetores.csproj" />
+</Solution>
