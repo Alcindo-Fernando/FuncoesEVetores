@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="ConsoleApp1/Ex1.csproj" />
   <Project Path="Eprimo/Eprimo.csproj" />
+  <Project Path="Exemplo/Exemplo.csproj" />
   <Project Path="FuncoesEVetores/FuncoesEVetores.csproj" />
 </Solution>
