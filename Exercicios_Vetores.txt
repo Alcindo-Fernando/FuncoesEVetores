@@ -1,0 +1,7 @@
+1 faça um programa que leia ATÉ 6 caracteres e grave em um vetor na ordem inserida, imprima o vetor da primeira para a ultima e da ultima para a primeira;
+
+2 faça um programa que leia 5 numeros inteiros e grave em um vetor, este vetor deve ser copiado para um novo na sequencia inversa, faça o mesmo copiando para um novo vetor de numeros pares e um outro de numeros primos;
+
+3 faça um programa que leia um numero inteiro, usando esse numero, crie um vetor com essa quantidade de posições, dentro desse vetor deve conter os itens da sequencia fibonacci até a posição infomada;
+
+4 faça um programa que cria um vetor de caracteres de 10 posições, copie para um novo vetor de string cada uma das posições, adicionando na proxima o valor da tabela asc daquele caracter;
